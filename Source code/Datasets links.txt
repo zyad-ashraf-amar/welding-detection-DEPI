@@ -1,0 +1,36 @@
+Dataset 1
+
+1184 image after augmentation 18670 image
+https://universe.roboflow.com/weld-1-mba6s/final-dataset-rc2vm/dataset/3
+
+1184 image after augmentation 3172 image
+https://universe.roboflow.com/test-6g9pr/final-dataset-rc2vm-6nb7m/dataset/1
+
+
+Dataset 2
+
+https://universe.roboflow.com/test-ulmj1/defect-detection-renamed-classes/dataset/4
+
+
+Dataset 3
+
+3664 image without augmentation
+https://universe.roboflow.com/welding-2bplp/weld-quality-inspection-rei9l/dataset/9
+
+3664 image after augmentation 9720 image
+https://universe.roboflow.com/z-gtntm/weld-quality-inspection-rei9l-epfj5/dataset/1
+
+
+Dataset 4
+
+https://universe.roboflow.com/project/welding-aiu6l/dataset/1
+
+
+Dataset 5
+
+https://universe.roboflow.com/welding-ds6wr/welding-all6y/dataset/1
+
+
+Dataset 6
+
+https://www.kaggle.com/datasets/sukmaadhiwijaya/welding-defect-object-detection/data
