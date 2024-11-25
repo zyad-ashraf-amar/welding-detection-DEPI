@@ -14,58 +14,19 @@ This project focuses on developing a computer vision solution to detect and clas
 *   **Unified Dataset**: Preprocessed and merged **6 different datasets** into a single comprehensive dataset.
 *   **Interactive Web App**: Deployed the model using **Streamlit** for real-time defect detection and visualization.
 
-# Model Performance
------------------
+# Model Performance  
+| Metric        | Value  |  
+|---------------|--------|  
+| **mAP50**     | 0.934  |  
 
-Metric
+## Class-wise Performance  
+| Class          | Precision | Recall | mAP50 |  
+|----------------|-----------|--------|-------|  
+| **Defect**     | 0.957     | 0.942  | 0.967 |  
+| **Good Welding** | 0.736   | 0.830  | 0.839 |  
+| **Porosity**   | 0.910     | 0.918  | 0.962 |  
+| **Bad Welding** | 0.928   | 0.911  | 0.969 |  
 
-Value
-
-**mAP50**
-
-0.934
-
-### Class-wise Performance
-
-Class
-
-Precision
-
-Recall
-
-mAP50
-
-**Defect**
-
-0.957
-
-0.942
-
-0.967
-
-**Good Welding**
-
-0.736
-
-0.830
-
-0.839
-
-**Porosity**
-
-0.910
-
-0.918
-
-0.962
-
-**Bad Welding**
-
-0.928
-
-0.911
-
-0.969
 
 # Installation
 ------------
