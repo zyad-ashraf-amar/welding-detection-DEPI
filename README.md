@@ -34,17 +34,11 @@ This project focuses on developing a computer vision solution to detect and clas
 1.  Clone the repository:
     
     ```bash
-    git clone https://github.com/yourusername/weld-defect-detection.git  
+    git clone https://github.com/zyad-ashraf-amar/welding-detection-DEPI.git  
     cd weld-defect-detection  
     ```
-    
-2.  Install dependencies:
-    
-    ```bash
-    pip install -r requirements.txt  
-    ```
-    
-3.  Download the pre-trained YOLOv5 weights and place them in the appropriate directory.
+
+2.  Download the pre-trained YOLOv5 weights and place them in the appropriate directory.
     
 
 # Usage
