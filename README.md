@@ -1,5 +1,4 @@
-# welding-detection-DEPI
-Weld Defect Detection
+# Weld Defect Detection (DEPI)
 =====================
 
 # Overview
